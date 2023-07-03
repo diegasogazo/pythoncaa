@@ -1,0 +1,13 @@
+# tarea2
+print("¿cuantos kilogramos pesa usted?")
+peso = input()
+print("ese es su peso?")
+input()
+print(peso)
+print("se ha registrado su peso correctamente")
+print("¿cuanto es su altura?")
+altura = input()
+print("esa es su altura real?")
+input()
+print(altura)
+print("se registro su peso y su altura correctamente")
